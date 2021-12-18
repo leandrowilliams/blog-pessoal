@@ -1,0 +1,32 @@
+.imagem2{
+    background-image: url(https://camo.githubusercontent.com/f51ea1c26aeddd3a1d78bee75956082731148691228484a4d140d77e307c2219/68747470733a2f2f63646e2e6f6d652e6c742f78724e67636872705061306d4446674a3754346e516249447254303d2f6669742d696e2f383337783530302f736d6172742f75706c6f6164732f636f6e746575646f2f666f746f732f4c6973746131302e676966);
+    background-repeat: no-repeat; 
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.texto-cadastro{
+    font-weight: bold;
+    color: #665544;
+}
+
+.botao-cancelar{
+    margin-right: 20px !important;
+    background-color: #e65447 !important;
+    color: #E8D3B6 !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.box-cadastro{
+    background-color: blueviolet;
+}
+
+.botao-cadastrar{
+    background-color: #665544 !important;
+    color: #E8D3B6 !important;
+}

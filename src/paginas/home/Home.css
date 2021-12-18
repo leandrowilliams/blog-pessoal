@@ -1,0 +1,30 @@
+.caixa{
+background-color: #E8D3B6;
+viewport-fit: "100vh";
+}
+
+.titulo-home{
+    color: #665544;
+    font-weight: "bold";
+}
+
+.botao-home {
+    border-color: #E8D3B6 !important;
+    background-color: #665544 !important;
+    color: #E8D3B6 !important;
+}
+
+.postagens{
+    background-color: #E8D3B6 !important;
+}
+
+.img{
+    width: 428px;
+    height: 624px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}

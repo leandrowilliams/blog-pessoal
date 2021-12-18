@@ -1,0 +1,23 @@
+.caixa1{
+    background-color: #E8D3B6;
+    height: 120px;
+}
+
+.redes{
+    font-size: 50px !important;
+    color: #665544; 
+}
+
+.caixa2{
+    background-color: #A8443A;
+    height: 60px;
+}
+
+.texto-redes{
+    color: #A8443A;
+}
+
+.texto-footer{
+    color: #E8D3B6;
+}
+
